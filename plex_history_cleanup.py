@@ -21,7 +21,7 @@ HEADERS = {
 }
 
 # Configurable delay between requests
-REQUEST_DELAY = 3.0  # Default to 3s
+REQUEST_DELAY = 10.0  # Default to 10s
 
 def get_uuid():
     """Fetch the UUID from a file, or prompt the user if it doesn't exist."""

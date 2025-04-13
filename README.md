@@ -113,8 +113,6 @@ To avoid hardcoding the UUID into the script, the tool will:
 - If it doesn't exist, prompt you for the UUID once
 - Save it to `.plex_uuid` so it's reused in future runs
 
-**You should add `.plex_uuid` to your `.gitignore`** to avoid committing sensitive data.
-
 ---
 
 ## Configuration and Customization
